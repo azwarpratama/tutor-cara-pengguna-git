@@ -10,7 +10,7 @@ DAFTAR AKUN GitHub
   2. Masukan Username, Email dan Password yang akan kalian gunakan pada akun GitHub kalian.
   ![pic1](https://user-images.githubusercontent.com/56986904/67551402-fad1f500-f732-11e9-80b7-cc959cf4b0f9.png)
   3. Lalu buka email yang anda masukan tadi dan lakukan verifikasi.
-  ![verifiaksi](https://user-images.githubusercontent.com/56971806/67516894-a0ea1480-f6cb-11e9-8f4f-51cc432e6ded.png)
+  ![pic2](https://user-images.githubusercontent.com/56986904/67551659-a2e7be00-f733-11e9-8bed-f2625c4783d7.png)
   4. Setelah melakukan verifikasi, kalian akan di alihkan ke laman GitHub untuk selanjutnya membuat Repository baru, lalu masukan
      nama Repository kalian dan klik "create repository".
   ![make repo](https://user-images.githubusercontent.com/56971806/67517227-5321dc00-f6cc-11e9-9170-86c8344926d9.png)
